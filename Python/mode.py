@@ -9,7 +9,6 @@ def main():
     print(p, "\n")
     print(v, "\n")
     print(f, "\n")
-    print(mode_val)  # 2
-
+    print("the val of mode is", mode_val)  # 2
 
 main()
