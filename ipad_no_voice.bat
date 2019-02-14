@@ -1,0 +1,1 @@
+ffmpeg -i %1 -map 0:0 -map 0:2 -acodec copy -vcodec copy edit_%1
