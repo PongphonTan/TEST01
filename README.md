@@ -1,3 +1,2 @@
 # TEST01
-
-testing use git and git hub w/ python project
+testing git and github to practice version controal and keep files of assigments and projectsany recommendation about any thing is greatly appreciated
